@@ -19,6 +19,7 @@ my life and serves as a constant source of motivation.
 
 ### Technical Skillset
 - **Languages/Frameworks:** JavaScript, React, NodeJS, ExpressJS, MongoDB, MySQL, SQLite, HTML, CSS, Python, Django, Flask
+- **Languages/Frameworks I'm learning:** Java, Kotlin, Spring Boot, Postgresql
 - **Tools:** Git, Docker, AWS
 
 
